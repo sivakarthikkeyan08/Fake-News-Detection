@@ -33,7 +33,7 @@ Each dataset includes:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/fake-news-detection.git
+   git clone https://github.com/sivakarthikkeyan08/fake-news-detection.git
    cd fake-news-detection
    ```
 2. Install dependencies:
