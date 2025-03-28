@@ -69,7 +69,7 @@ Output: "Real News"
 - Integrate **real-time news scraping** for live detection.
 
 ## Contributors
-- **Your Name** ([GitHub](https://github.com/yourusername))
+- **Sivakarthikkeyan** ([GitHub]((https://github.com/sivakarthikkeyan08))
 
 ## License
 This project is licensed under the MIT License.
